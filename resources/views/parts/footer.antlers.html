@@ -1,58 +1,129 @@
-<footer class="alt_footer bg-black text-white py-12">
-    <div class="container mx-auto px-6">
-        <div class="flex flex-wrap">
-            <div class="w-full lg:w-1/4 mb-5 lg:mb-0">
-                <a href="/" aria-label="Back to Homepage" >
-                    <img src="/images/alt_logo.svg" alt="{{ config:app:name }}" class="w-[100px]">
-<!--                    <img src="{{ glide src='/images/logo.png' format='webp' width='100'}}" alt="{{ config:app:name }}" class="w-[100px]">-->
-                </a>
-            </div>
+<!-- Footer Section Start -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <!-- Footer Newsletter Box Start -->
+                    <div class="footer-newsletter-box">
+                        <!-- Footer Newsletter Title Start -->
+                        <div class="footer-newsletter-title">
+                            <h3>Don't missed subscribed!</h3>
+                        </div>
+                        <!-- Footer Newsletter Title End -->
 
-            <div class="w-full lg:w-1/4">
-                {{ if contact_details:address }}
-                <div class="leading-6 text-base mb-4">{{ contact_details:address }}</div>
-                {{ /if }}
-            </div>
-
-            <div class="w-full lg:w-1/4 flex flex-col">
-                {{ if contact_details:telephone }}
-                <div class="inline-flex font-semibold">
-                    T: <a href="tel:{{ contact_details:telephone }}" class="ml-2 mb-1 font-normal">{{ contact_details:telephone }}</a>
-                </div>
-                {{ /if }}
-
-                {{ if contact_details:email }}
-                <div class="inline-flex font-semibold">
-                    E: <a href="mailto:{{ contact_details:email }}" class="ml-2 mb-6 font-normal">{{ contact_details:email }}</a>
-                </div>
-                {{ /if }}
-                {{ partial src="parts/social-links" }}
-            </div>
-
-            <div class="w-full lg:w-1/4 order-first lg:order-last mb-5 lg:mb-0">
-                <div class="footer-links flex flex-col space-y-4">
-                    {{ nav:footer_nav }}
-                    <div class="">
-                        <a href="{{ url }}">{{ title }}</a>
+                        <!-- Newsletter Form start -->
+                        <div class="newsletter-form">
+                            <form id="newsletterForm" action="#" method="POST">
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" id="mail" placeholder="Enter Your Email" required="">
+                                    <button type="submit" class="newsletter-btn"><img src="images/arrow-white.svg" alt=""></button>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- Newsletter Form end -->
                     </div>
-                    {{ /nav:footer_nav }}
+                    <!-- Footer Newsletter Box End -->
+                </div>
+                
+                <div class="col-lg-2 col-md-4 col-6">
+                    <!-- Footer Links Start -->
+                    <div class="footer-links">
+                        <h3>company</h3>
+                        <ul>
+                            <li><a href="index.html">home</a></li>
+                            <li><a href="about.html">about Us</a></li>
+                            <li><a href="services.html">services</a></li>
+                            <li><a href="blog.html">blog</a></li>
+                        </ul>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-6">
+                    <!-- Footer Links Start -->
+                    <div class="footer-links">
+                        <h3>support</h3>
+                        <ul>
+                            <li><a href="#">help</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Term & Condition</a></li>
+                            <li><a href="contact.html">Contact us</a></li>
+                        </ul>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>
+
+                <div class="col-lg-2  col-md-4">
+                    <!-- Footer Links Start -->
+                    <div class="footer-links">
+                        <h3>service</h3>
+                        <ul>
+                            <li><a href="service-single.html">Financial planning</a></li>
+                            <li><a href="service-single.html">Investment management</a></li>
+                            <li><a href="service-single.html">Retirement planning</a></li>
+                            <li><a href="service-single.html">Budgeting & forecasting</a></li>
+                        </ul>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>
+
+                <div class="col-lg-12">
+                    <!-- About Footer Start -->
+                    <div class="footer-cta-box">
+                        <!-- Footer Logo Start -->
+                        <div class="footer-logo">
+                            <img src="images/footer-logo.svg" alt="">
+                        </div>
+                        <!-- Footer Logo End -->
+                    
+                        <!-- Footer Contact Box Start -->
+                        <div class="footer-contact-box">
+                            <!-- Footer Contact Item Start -->
+                            <div class="footer-contact-item">
+                                <p>Need help!</p>
+                                <h3>+1 809 120 705</h3>
+                            </div>
+                            <!-- Footer Contact Item End -->
+
+                            <!-- Footer Contact Item Start -->
+                            <div class="footer-contact-item">
+                                <p>E-mail now</p>
+                                <h3>info@domain.com</h3>
+                            </div>
+                            <!-- Footer Contact Item End -->
+                        </div>
+                        <!-- Footer Contact Box End -->
+                    </div>
+                    <!-- About Footer End -->
                 </div>
             </div>
-        </div>
 
-        <div class="bottom border-t border-white pt-6 mt-6 text-white flex flex-wrap justify-between items-center">
-            <div class="footer-small-links flex space-x-5">
-            {{ nav:footer_small_links }}
-            <div class="text-xs">
-                <a href="{{ url }}">{{ title }}</a>
+            <!-- Footer Copyright Section Start -->
+            <div class="footer-copyright">
+                <div class="row align-items-center">
+                    <div class="col-md-5">
+                        <!-- Footer Copyright Start -->
+                        <div class="footer-copyright-text">
+                            <p>Copyright © 2024 All Rights Reserved.</p>
+                        </div>
+                        <!-- Footer Copyright End -->
+                    </div>
+
+                    <div class="col-md-7">
+                        <!-- Footer Menu Start -->
+                        <div class="footer-menu">
+                            <ul>                            
+                                <li><a href="#">LinkedIn</a></li>
+                                <li><a href="#">Facebook</a></li>
+                                <li><a href="#">Instagram</a></li>
+                                <li><a href="#">Twitter</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Menu End -->
+                    </div>
+                </div>
             </div>
-            {{ /nav:footer_small_links }}
-            </div>
-            <div class="flex items-center text-xs leading-5">
-                Site by <a href="https://www.alt-design.net/" target="_blank" class="pl-1 hover:underline">Alt</a>
-                <div class="ml-4">
-                    &copy; {{ now|format:Y }} {{ config:app:name }}</div>
-            </div>
+            <!-- Footer Copyright Section End -->
         </div>
-    </div>
-</footer>
+    </footer>
+    <!-- Footer Section End -->

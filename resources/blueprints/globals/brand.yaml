@@ -1,0 +1,61 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        display: 'Brand Face'
+        fields:
+          -
+            handle: dark_logo
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Dark Logo'
+              width: 50
+          -
+            handle: light_logo
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Light Logo'
+              width: 50
+          -
+            handle: favicon
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: Favicon
+              width: 50
+      -
+        display: 'Contact Details'
+        fields:
+          -
+            handle: phone_number_2
+            field:
+              type: text
+              display: 'Phone Number 2'
+              width: 50
+          -
+            handle: phone_number
+            field:
+              type: text
+              display: 'Phone Number'
+              width: 50
+          -
+            handle: email
+            field:
+              type: text
+              display: Email
+          -
+            handle: office_address
+            field:
+              type: textarea
+              display: 'Office Address'
+          -
+            handle: factory_address
+            field:
+              type: textarea
+              display: 'Factory Address'
