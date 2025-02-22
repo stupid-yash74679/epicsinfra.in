@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740220184
+updated_at: 1740261514
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -289,3 +289,4 @@ alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-restaurants'
 alt_seo_social_title: 'Prefab Restaurants | Fast & Stylish by Epics Infra'
 alt_seo_social_description: 'Fast-setup Prefab Restaurants by Epics Infra. Stylish & green.'
 ---
+Craving a restaurant without the long build time? Epics Infra’s prefab restaurants offer fast, stylish dining spaces.

@@ -45,10 +45,6 @@ tree:
         title: 'Prefab Restaurants'
         url: /products/prefab-restaurants
   -
-    id: 6080b5ec-f5ce-4047-941b-1f2d4e88236f
-    title: Gallery
-    url: /gallery
-  -
     id: 72ff361a-cabd-4d63-a553-c707c8c53d5a
     title: Clients
     url: /clients

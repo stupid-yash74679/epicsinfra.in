@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740220105
+updated_at: 1740261493
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -289,3 +289,4 @@ alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-kiosks'
 alt_seo_social_title: 'Prefab Kiosks Ahmedabad | Compact by Epics Infra'
 alt_seo_social_description: 'Compact Prefab Kiosks by Epics Infra. Perfect for retail. Fast setup.'
 ---
+Need a small space that packs a punch? Epics Infra’s prefab kiosks are your go-to for quick, compact setups.

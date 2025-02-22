@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740220014
+updated_at: 1740261463
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -289,3 +289,4 @@ alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-cafes'
 alt_seo_social_title: 'Prefab Cafes Ahmedabad | Stylish & Fast by Epics Infra'
 alt_seo_social_description: 'Stylish Prefab Cafes by Epics Infra. Fast setup, eco-friendly.'
 ---
+Dreaming of a cozy cafe without the long wait? Epics Infra’s prefab cafes bring charm and function together fast.

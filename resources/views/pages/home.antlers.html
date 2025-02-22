@@ -279,7 +279,6 @@
       </div>
     </div>
   </div>
-</div>
 <!-- About Us Section End --> 
 
 <!-- Our Services Section Start -->
@@ -291,8 +290,8 @@
         <div class="our-service-content"> 
           <!-- Section Title Start -->
           <div class="section-title">
-            <h3 class="wow fadeInUp">services</h3>
-            <h2 class="text-anime-style-2" data-cursor="-opaque">Expert prefab & modular services <span>for success</span></h2>
+            <h3 class="wow fadeInUp">Products</h3>
+            <h2 class="text-anime-style-2" data-cursor="-opaque">Expert prefab &amp; modular services <span>for success</span></h2>
           </div>
           <!-- Section Title End --> 
           
@@ -304,96 +303,22 @@
       </div>
       <div class="col-lg-8"> 
         <!-- Our Service List Start -->
-        <div class="our-service-list"> 
+        <div class="our-service-list">
+			{{collection:products}}
           <!-- Service Item Start -->
           <div class="service-item">
             <div class="service-no">
-              <h2>01</h2>
+              <h2>0{{index + 1}}</h2>
             </div>
             <div class="service-content-box">
-              <div class="icon-box"> <img src="images/icon-service-1.svg" alt=""> </div>
               <div class="service-item-content">
-                <h3>portable offices</h3>
-                <p>Prefab offices offer rapid setup and flexibility to suit your workspace needs, built off-site efficiently.</p>
-                <a href="service-single.html" class="service-btn"><img src="images/arrow-white.svg" alt=""></a> </div>
+                <h3>{{title}}</h3>
+                <p>{{content}}</p>
+                <a href="{{url}}" class="service-btn"><img src="/images/arrow-white.svg" alt=""></a></div>
             </div>
           </div>
           <!-- Service Item End --> 
-          
-          <!-- Service Item Start -->
-          <div class="service-item">
-            <div class="service-no">
-              <h2>02</h2>
-            </div>
-            <div class="service-content-box">
-              <div class="icon-box"> <img src="images/icon-service-2.svg" alt=""> </div>
-              <div class="service-item-content">
-                <h3>prefab farmhouses</h3>
-                <p>Prefab farmhouses provide durable and quick builds for rural needs with modern design efficiency.</p>
-                <a href="service-single.html" class="service-btn"><img src="images/arrow-white.svg" alt=""></a> </div>
-            </div>
-          </div>
-          <!-- Service Item End --> 
-          
-          <!-- Service Item Start -->
-          <div class="service-item">
-            <div class="service-no">
-              <h2>03</h2>
-            </div>
-            <div class="service-content-box">
-              <div class="icon-box"> <img src="images/icon-service-3.svg" alt=""> </div>
-              <div class="service-item-content">
-                <h3>prefab toilets</h3>
-                <p>Prefab toilets ensure fast installation and hygiene for various site requirements sustainably.</p>
-                <a href="service-single.html" class="service-btn"><img src="images/arrow-white.svg" alt=""></a> </div>
-            </div>
-          </div>
-          <!-- Service Item End --> 
-          
-          <!-- Service Item Start -->
-          <div class="service-item">
-            <div class="service-no">
-              <h2>04</h2>
-            </div>
-            <div class="service-content-box">
-              <div class="icon-box"> <img src="images/icon-service-4.svg" alt=""> </div>
-              <div class="service-item-content">
-                <h3>labour colonies</h3>
-                <p>Prefab colonies offer quick housing solutions for workers with comfort and practicality.</p>
-                <a href="service-single.html" class="service-btn"><img src="images/arrow-white.svg" alt=""></a> </div>
-            </div>
-          </div>
-          <!-- Service Item End --> 
-          
-          <!-- Service Item Start -->
-          <div class="service-item">
-            <div class="service-no">
-              <h2>05</h2>
-            </div>
-            <div class="service-content-box">
-              <div class="icon-box"> <img src="images/icon-service-5.svg" alt=""> </div>
-              <div class="service-item-content">
-                <h3>prefab kiosks</h3>
-                <p>Prefab kiosks deliver compact and versatile setups for small business operations efficiently.</p>
-                <a href="service-single.html" class="service-btn"><img src="images/arrow-white.svg" alt=""></a> </div>
-            </div>
-          </div>
-          <!-- Service Item End --> 
-          
-          <!-- Service Item Start -->
-          <div class="service-item">
-            <div class="service-no">
-              <h2>06</h2>
-            </div>
-            <div class="service-content-box">
-              <div class="icon-box"> <img src="images/icon-service-6.svg" alt=""> </div>
-              <div class="service-item-content">
-                <h3>pre-engineered buildings</h3>
-                <p>Pre-engineered buildings provide robust and fast solutions for industrial and commercial use.</p>
-                <a href="service-single.html" class="service-btn"><img src="images/arrow-white.svg" alt=""></a> </div>
-            </div>
-          </div>
-          <!-- Service Item End --> 
+          {{/collection:products}}
         </div>
         <!-- Our Service List End --> 
         
@@ -918,7 +843,7 @@
                     <!-- Testimonial Header Start -->
                     <div class="testimonial-header"> 
                       <!-- Customer Logo Start -->
-                      <div class="customer-logo"> <img src="images/customer-logo.svg" alt=""> </div>
+                      <div class="customer-logo"> <img src="{{brand:light_logo}}" alt=""  style="max-width: 60px !important;"> </div>
                       <!-- Customer Logo End --> 
                       
                       <!-- Testimonial Quotes Start -->
@@ -935,11 +860,6 @@
                     
                     <!-- Testimonial Author Start -->
                     <div class="testimonial-author"> 
-                      <!-- Author Image Start -->
-                      <div class="author-image">
-                        <figure class="image-anime"> <img src="images/author-1.jpg" alt=""> </figure>
-                      </div>
-                      <!-- Author Image End --> 
                       
                       <!-- Author Content Start -->
                       <div class="author-content">
@@ -960,7 +880,7 @@
                     <!-- Testimonial Header Start -->
                     <div class="testimonial-header"> 
                       <!-- Customer Logo Start -->
-                      <div class="customer-logo"> <img src="images/customer-logo.svg" alt=""> </div>
+                      <div class="customer-logo"> <img src="{{brand:light_logo}}" alt=""  style="max-width: 60px !important;"> </div>
                       <!-- Customer Logo End --> 
                       
                       <!-- Testimonial Quotes Start -->
@@ -977,11 +897,6 @@
                     
                     <!-- Testimonial Author Start -->
                     <div class="testimonial-author"> 
-                      <!-- Author Image Start -->
-                      <div class="author-image">
-                        <figure class="image-anime"> <img src="images/author-2.jpg" alt=""> </figure>
-                      </div>
-                      <!-- Author Image End --> 
                       
                       <!-- Author Content Start -->
                       <div class="author-content">
@@ -1002,7 +917,7 @@
                     <!-- Testimonial Header Start -->
                     <div class="testimonial-header"> 
                       <!-- Customer Logo Start -->
-                      <div class="customer-logo"> <img src="images/customer-logo.svg" alt=""> </div>
+                      <div class="customer-logo"> <img src="{{brand:light_logo}}" alt=""  style="max-width: 60px !important;"> </div>
                       <!-- Customer Logo End --> 
                       
                       <!-- Testimonial Quotes Start -->
@@ -1019,11 +934,6 @@
                     
                     <!-- Testimonial Author Start -->
                     <div class="testimonial-author"> 
-                      <!-- Author Image Start -->
-                      <div class="author-image">
-                        <figure class="image-anime"> <img src="images/author-3.jpg" alt=""> </figure>
-                      </div>
-                      <!-- Author Image End --> 
                       
                       <!-- Author Content Start -->
                       <div class="author-content">
@@ -1113,12 +1023,13 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-6"> 
+		{{collection:blogs}}
+     		 <div class="col-md-6"> 
         <!-- Post Item Start -->
         <div class="post-item wow fadeInUp"> 
           <!-- Post Featured Image Start-->
-          <div class="post-featured-image"> <a href="blog-single.html" data-cursor-text="View">
-            <figure class="image-anime"> <img src="images/post-1.jpg" alt=""> </figure>
+          <div class="post-featured-image"> <a href="{{url}}" data-cursor-text="View">
+            <figure class="image-anime"> <img src="{{thumbnail_image}}" alt=""> </figure>
             </a> </div>
           <!-- Post Featured Image End --> 
           
@@ -1127,124 +1038,26 @@
             <!-- Post Item Tag Start -->
             <div class="post-item-meta">
               <ul>
-                <li><i class="fa-solid fa-calendar-days"></i> 15 Feb, 2025</li>
+                <li><i class="fa-solid fa-calendar-days"></i> {{date}}</li>
               </ul>
             </div>
             <!-- Post Item Tag End --> 
             
             <!-- Post Item Content Start -->
             <div class="post-item-content">
-              <h2><a href="blog-single.html">10 Key Benefits of Choosing Prefab Construction for Quick Project Delivery</a></h2>
+              <h2><a href="{{url}}">{{title}}</a></h2>
             </div>
             <!-- Post Item Content End --> 
             
             <!-- Post Item Readmore Button Start-->
-            <div class="post-item-btn"> <a href="blog-single.html" class="readmore-btn">read more</a> </div>
+            <div class="post-item-btn"> <a href="{{url}}" class="readmore-btn">read more</a> </div>
             <!-- Post Item Readmore Button End--> 
           </div>
           <!-- Post Item Body End --> 
         </div>
         <!-- Post Item End --> 
       </div>
-      <div class="col-md-6"> 
-        <!-- Post Item Start -->
-        <div class="post-item wow fadeInUp" data-wow-delay="0.2s"> 
-          <!-- Post Featured Image Start-->
-          <div class="post-featured-image"> <a href="blog-single.html" data-cursor-text="View">
-            <figure class="image-anime"> <img src="images/post-2.jpg" alt=""> </figure>
-            </a> </div>
-          <!-- Post Featured Image End --> 
-          
-          <!-- Post Item Body Start -->
-          <div class="post-item-body"> 
-            <!-- Post Item Tag Start -->
-            <div class="post-item-meta">
-              <ul>
-                <li><i class="fa-solid fa-calendar-days"></i> 15 Feb, 2025</li>
-              </ul>
-            </div>
-            <!-- Post Item Tag End --> 
-            
-            <!-- Post Item Content Start -->
-            <div class="post-item-content">
-              <h2><a href="blog-single.html">Top 5 Prefab Design Trends to Watch Out for in Ahmedabad in 2025</a></h2>
-            </div>
-            <!-- Post Item Content End --> 
-            
-            <!-- Post Item Readmore Button Start-->
-            <div class="post-item-btn"> <a href="blog-single.html" class="readmore-btn">read more</a> </div>
-            <!-- Post Item Readmore Button End--> 
-          </div>
-          <!-- Post Item Body End --> 
-        </div>
-        <!-- Post Item End --> 
-      </div>
-      <div class="col-md-6"> 
-        <!-- Post Item Start -->
-        <div class="post-item wow fadeInUp" data-wow-delay="0.4s"> 
-          <!-- Post Featured Image Start-->
-          <div class="post-featured-image"> <a href="blog-single.html" data-cursor-text="View">
-            <figure class="image-anime"> <img src="images/post-3.jpg" alt=""> </figure>
-            </a> </div>
-          <!-- Post Featured Image End --> 
-          
-          <!-- Post Item Body Start -->
-          <div class="post-item-body"> 
-            <!-- Post Item Tag Start -->
-            <div class="post-item-meta">
-              <ul>
-                <li><i class="fa-solid fa-calendar-days"></i> 15 Feb, 2025</li>
-              </ul>
-            </div>
-            <!-- Post Item Tag End --> 
-            
-            <!-- Post Item Content Start -->
-            <div class="post-item-content">
-              <h2><a href="blog-single.html">How Prefab Reduces Costs: Practical Tips for Efficient Construction</a></h2>
-            </div>
-            <!-- Post Item Content End --> 
-            
-            <!-- Post Item Readmore Button Start-->
-            <div class="post-item-btn"> <a href="blog-single.html" class="readmore-btn">read more</a> </div>
-            <!-- Post Item Readmore Button End--> 
-          </div>
-          <!-- Post Item Body End --> 
-        </div>
-        <!-- Post Item End --> 
-      </div>
-      <div class="col-md-6"> 
-        <!-- Post Item Start -->
-        <div class="post-item wow fadeInUp" data-wow-delay="0.6s"> 
-          <!-- Post Featured Image Start-->
-          <div class="post-featured-image"> <a href="blog-single.html" data-cursor-text="View">
-            <figure class="image-anime"> <img src="images/post-4.jpg" alt=""> </figure>
-            </a> </div>
-          <!-- Post Featured Image End --> 
-          
-          <!-- Post Item Body Start -->
-          <div class="post-item-body"> 
-            <!-- Post Item Tag Start -->
-            <div class="post-item-meta">
-              <ul>
-                <li><i class="fa-solid fa-calendar-days"></i> 15 Feb, 2025</li>
-              </ul>
-            </div>
-            <!-- Post Item Tag End --> 
-            
-            <!-- Post Item Content Start -->
-            <div class="post-item-content">
-              <h2><a href="blog-single.html">Sustainability in Prefab: Building Green with Epics Infra Solutions</a></h2>
-            </div>
-            <!-- Post Item Content End --> 
-            
-            <!-- Post Item Readmore Button Start-->
-            <div class="post-item-btn"> <a href="blog-single.html" class="readmore-btn">read more</a> </div>
-            <!-- Post Item Readmore Button End--> 
-          </div>
-          <!-- Post Item Body End --> 
-        </div>
-        <!-- Post Item End --> 
-      </div>
+		{{/collection:blogs}}
     </div>
   </div>
 </div>

@@ -59,3 +59,12 @@ tabs:
             field:
               type: textarea
               display: 'Factory Address'
+      -
+        display: Clients
+        fields:
+          -
+            handle: clients
+            field:
+              container: assets
+              type: assets
+              display: Clients

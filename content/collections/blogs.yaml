@@ -1,8 +1,10 @@
 title: Blogs
-template: blogs/show
+template: blogs/index
 layout: layout
 revisions: false
-route: '/blogs/{slug}'
+route: '/blog/{slug}'
+slugs: false
+date: true
 sort_dir: asc
 date_behavior:
   past: public
