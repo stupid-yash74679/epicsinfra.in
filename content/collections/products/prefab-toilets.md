@@ -9,23 +9,23 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740263442
+updated_at: 1740267523
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
                             <div class="service-entry">
-                                <p class="wow fadeInUp">Need clean, quick restroom solutions? Epics Infra’s prefab toilets deliver fast, hygienic facilities. Perfect for construction sites, events, or public spaces, our units blend practicality with durability—designed for Ahmedabad’s diverse needs.</p>
+                                <p class="wow fadeInUp">Need a restroom solution that’s up before nature calls twice? Epics Infra’s Prefab Toilets are your quick fix. I’ve seen these handy units pop up in Ahmedabad—on construction sites, at events, or public spots—fast and built to keep things clean and simple.</p>
 
                                 <!-- Case Study List Video Start -->
                                 <div class="service-list-video">
                                     <!-- Case Study List Start -->
                                     <div class="service-entry-list wow fadeInUp" data-wow-delay="0.2s">
                                         <ul>
-                                            <li>Up in days, not weeks</li>
-                                            <li>Custom layouts for any use</li>
-                                            <li>Built tough for heavy use</li>
-                                            <li>Eco-friendly features</li>
-                                            <li>Cost-effective sanitation</li>
+                                            <li>Ready in days, not weeks</li>
+                                            <li>Custom fit for your needs</li>
+                                            <li>Tough against any weather</li>
+                                            <li>Green materials that matter</li>
+                                            <li>Keeps your budget in line</li>
                                         </ul>
                                     </div>
                                     <!-- Case Study List End -->
@@ -36,7 +36,7 @@ page_content:
                                         <div class="video-image">
                                             <a href="javascript:void(0);" class="image">
                                                 <figure class="image-anime">
-                                                    <img src="/images/service-video-bg.jpg" alt="Prefab Toilets by Epics Infra">
+                                                    <img src="/images/service-video-bg.jpg" alt="Porta Cabins by Epics Infra">
                                                 </figure>
                                             </a>
                                         </div>
@@ -48,9 +48,9 @@ page_content:
 
                                 <!-- Service Guidance Box Start -->
                                 <div class="service-guidance">
-                                    <h2 class="text-anime-style-2">Why Our Toilets Stand Tall</h2>
+                                    <h2 class="text-anime-style-2">Why These Toilets Are a Big Deal</h2>
 
-                                    <p class="wow fadeInUp">With 15+ years of expertise, Epics Infra crafts prefab sanitation units that get the job done. We mix smart design with sturdy materials to deliver clean, reliable facilities—ready fast for any site or event.</p>
+                                    <p class="wow fadeInUp">Epics Infra’s got 15+ years of smarts, and their Prefab Toilets show it off. Need a clean setup for your crew or a public spot? They’ve got the knack for building tough, practical units that handle Ahmedabad’s heat and rains like pros.</p>
 
                                     <!-- Service Guidance Box Start -->
                                     <div class="service-guidance-box">
@@ -61,13 +61,8 @@ page_content:
                                                     <img src="/images/icon-service-6.svg" alt="">
                                                 </div>
                                                 <div class="service-guidance-title">
-                                                    <h3>Site Match</h3>
+                                                    <h3>Site Assessment</h3>
                                                 </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-1.jpg" alt="Site Planning for Toilets">
-                                                </figure>
                                             </div>
                                         </div>
                                         <!-- Service Guidance Item End -->
@@ -79,13 +74,8 @@ page_content:
                                                     <img src="/images/icon-service-3.svg" alt="">
                                                 </div>
                                                 <div class="service-guidance-title">
-                                                    <h3>Green Units</h3>
+                                                    <h3>Green Building</h3>
                                                 </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-2.jpg" alt="Eco-Friendly Toilet Design">
-                                                </figure>
                                             </div>
                                         </div>
                                         <!-- Service Guidance Item End -->
@@ -97,13 +87,8 @@ page_content:
                                                     <img src="/images/icon-service-2.svg" alt="">
                                                 </div>
                                                 <div class="service-guidance-title">
-                                                    <h3>Your Setup</h3>
+                                                    <h3>Custom Design</h3>
                                                 </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-3.jpg" alt="Custom Toilet Layouts">
-                                                </figure>
                                             </div>
                                         </div>
                                         <!-- Service Guidance Item End -->
@@ -116,7 +101,7 @@ page_content:
                                 <div class="services-steps">
                                     <h2 class="text-anime-style-2">How We Set Up Your Toilets</h2>
 
-                                    <p class="wow fadeInUp">Our process is fast and simple. We start with your needs, design a unit that fits, and install it quick—often in under 15 days—so your site stays clean and ready.</p>
+                                    <p class="wow fadeInUp">Epics Infra keeps it no-nonsense. We chat about what you need, design a setup that fits, and get it rolling in 15-30 days—boom, you’ve got a clean spot, no waiting around.</p>
 
                                     <!-- Service Step Box Start -->
                                     <div class="service-steps-box">
@@ -128,8 +113,8 @@ page_content:
                                                     <img src="/images/icon-service-4.svg" alt="">
                                                 </div>
                                                 <div class="service-step-item-content">
-                                                    <h3>Step 1: Your Needs</h3>
-                                                    <p>We hear what you want.</p>
+                                                    <h3>Step 1: Consultation</h3>
+                                                    <p>We figure out your toilet needs.</p>
                                                 </div>
                                             </div>
                                             <!-- Service Step Item End -->
@@ -140,8 +125,8 @@ page_content:
                                                     <img src="/images/icon-service-5.svg" alt="">
                                                 </div>
                                                 <div class="service-step-item-content">
-                                                    <h3>Step 2: Design It</h3>
-                                                    <p>We plan a perfect fit.</p>
+                                                    <h3>Step 2: Design</h3>
+                                                    <p>We sketch a plan that works.</p>
                                                 </div>
                                             </div>
                                             <!-- Service Step Item End -->
@@ -152,8 +137,8 @@ page_content:
                                                     <img src="/images/icon-service-6.svg" alt="">
                                                 </div>
                                                 <div class="service-step-item-content">
-                                                    <h3>Step 3: Install</h3>
-                                                    <p>We get it up fast.</p>
+                                                    <h3>Step 3: Installation</h3>
+                                                    <p>We get it up quick and solid.</p>
                                                 </div>
                                             </div>
                                             <!-- Service Step Item End -->
@@ -163,9 +148,9 @@ page_content:
                                         <!-- Service Entry List Start -->
                                         <div class="service-entry-list wow fadeInUp" data-wow-delay="0.6s">
                                             <ul>
-                                                <li>Site prep</li>
-                                                <li>Quick build</li>
-                                                <li>Final check</li>
+                                                <li>We check your spot</li>
+                                                <li>Fast build, no fuss</li>
+                                                <li>We lock in every detail</li>
                                             </ul>
                                         </div>
                                         <!-- Service Entry List End -->
@@ -176,19 +161,19 @@ page_content:
 
                                 <!-- Service Feature Start -->
                                 <div class="service-feature">
-                                    <h2 class="text-anime-style-2">Toilet Features That Shine</h2>
+                                    <h2 class="text-anime-style-2">What Makes These Toilets Awesome</h2>
 
-                                    <p class="wow fadeInUp">Our prefab toilets in Ahmedabad offer speedy setups, clean designs, and green perks that keep hygiene high and costs low.</p>
+                                    <p class="wow fadeInUp">Prefab Toilets from Epics Infra? They’re fast to build, tough as heck, and lean into green living with recycled materials that keep things clean—perfect for Ahmedabad’s sites or events.</p>
 
                                     <!-- Service Entry List Start -->
                                     <div class="service-entry-list wow fadeInUp" data-wow-delay="0.2s">
                                         <ul>
-                                            <li>Weather-ready builds</li>
-                                            <li>Custom sizes</li>
-                                            <li>Low maintenance</li>
-                                            <li>Portable units</li>
-                                            <li>Energy-efficient</li>
-                                            <li>Fits your budget</li>
+                                            <li>Weathers anything like a pro</li>
+                                            <li>Size it how you need</li>
+                                            <li>Low upkeep, high function</li>
+                                            <li>Move it wherever</li>
+                                            <li>Saves on energy costs</li>
+                                            <li>Fits your budget easy</li>
                                         </ul>
                                     </div>
                                     <!-- Service Entry List End -->
@@ -208,12 +193,12 @@ page_content:
                                     <div class="accordion-item wow fadeInUp">
                                         <h2 class="accordion-header" id="heading1">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                                What are prefab toilets for?
+                                                What’s a Prefab Toilet for?
                                             </button>
                                         </h2>
                                         <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Great for sites, events, or public spots—clean and quick.</p>
+                                                <p>Sites, events—Epics Infra makes ‘em quick and clean.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -223,12 +208,12 @@ page_content:
                                     <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                                         <h2 class="accordion-header" id="heading2">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                                How fast can they be set up?
+                                                How fast can I get one?
                                             </button>
                                         </h2>
                                         <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Our portable toilets can be ready in 10-15 days.</p>
+                                                <p>Epics Infra sets it up in 15-30 days—your call.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -238,12 +223,12 @@ page_content:
                                     <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                                         <h2 class="accordion-header" id="heading3">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                                Can I customize them?
+                                                Can I tweak the design?
                                             </button>
                                         </h2>
                                         <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Yep! We tweak size and layout to suit you.</p>
+                                                <p>You bet—Epics Infra shapes it your way.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -258,7 +243,7 @@ page_content:
                                         </h2>
                                         <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>You bet—green materials keep it sustainable.</p>
+                                                <p>For sure—built to cut waste down.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -268,18 +253,25 @@ page_content:
                                     <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
                                         <h2 class="accordion-header" id="heading5">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-                                                Who needs these toilets?
+                                                Who’s using these toilets?
                                             </button>
                                         </h2>
                                         <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Contractors, event planners, or anyone needing fast sanitation.</p>
+                                                <p>Crews, event folks—anyone needing a fast fix.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- FAQ Item End -->
                                 </div>
                                 <!-- FAQ Accordion End -->
+
+                                <!-- Call to Action Start -->
+                                <div class="cta-section" style="margin-top: 20px; padding: 20px; text-align: center;">
+                                    <h3>Ready for Your Prefab Toilets?</h3>
+                                    <p>Get set with Epics Infra. Call us at <a href="tel:{{brand:phone_number}}">{{brand:phone_number}}</a> or email <a href="mailto:{{brand:email}}">{{brand:email}}</a>. Let’s roll!</p>
+                                </div>
+                                <!-- Call to Action End -->
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
@@ -288,5 +280,6 @@ alt_seo_meta_description: 'Need prefab toilets in Ahmedabad? Epics Infra offers 
 alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-toilets'
 alt_seo_social_title: 'Prefab Toilets Ahmedabad | Fast & Green by Epics Infra'
 alt_seo_social_description: 'Fast, green prefab toilets by Epics Infra. Ready in 10-15 days!'
+thumbnail_image: prefab-portable-toilet-india.webp
 ---
 Need clean, quick restroom solutions? Epics Infra’s prefab toilets deliver fast, hygienic facilities.

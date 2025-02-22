@@ -19,6 +19,13 @@ tabs:
               display: Content
               localizable: true
           -
+            handle: thumbnail_image
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Thumbnail Image'
+          -
             handle: page_content
             field:
               antlers: true

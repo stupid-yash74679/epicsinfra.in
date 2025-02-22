@@ -9,23 +9,23 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740261493
+updated_at: 1740267502
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
                             <div class="service-entry">
-                                <p class="wow fadeInUp">Need a small space that packs a punch? Epics Infra’s prefab kiosks are your go-to for quick, compact setups. Ideal for retail stands, ticket booths, or info points, our kiosks blend smart design with durability—perfect for Ahmedabad’s busy streets.</p>
+                                <p class="wow fadeInUp">Need a tiny space that packs a punch? Epics Infra’s Prefab Kiosks are your go-to for quick, compact setups. I’ve seen these little gems turn empty corners into bustling stands in Ahmedabad—perfect for retail, tickets, or info hubs on the fly.</p>
 
                                 <!-- Case Study List Video Start -->
                                 <div class="service-list-video">
                                     <!-- Case Study List Start -->
                                     <div class="service-entry-list wow fadeInUp" data-wow-delay="0.2s">
                                         <ul>
-                                            <li>Ready in days, not weeks</li>
-                                            <li>Custom fits for your brand</li>
-                                            <li>Built tough for daily wear</li>
-                                            <li>Green materials inside</li>
-                                            <li>Easy on your budget</li>
+                                            <li>Up in days, not weeks</li>
+                                            <li>Custom fit for your gig</li>
+                                            <li>Tough against the elements</li>
+                                            <li>Green materials that rock</li>
+                                            <li>Easy on your wallet</li>
                                         </ul>
                                     </div>
                                     <!-- Case Study List End -->
@@ -36,7 +36,7 @@ page_content:
                                         <div class="video-image">
                                             <a href="javascript:void(0);" class="image">
                                                 <figure class="image-anime">
-                                                    <img src="/images/service-video-bg.jpg" alt="Prefab Kiosks by Epics Infra">
+                                                    <img src="/images/service-video-bg.jpg" alt="Porta Cabins by Epics Infra">
                                                 </figure>
                                             </a>
                                         </div>
@@ -48,9 +48,9 @@ page_content:
 
                                 <!-- Service Guidance Box Start -->
                                 <div class="service-guidance">
-                                    <h2 class="text-anime-style-2">Why Our Kiosks Stand Out</h2>
+                                    <h2 class="text-anime-style-2">Why These Kiosks Are a Big Win</h2>
 
-                                    <p class="wow fadeInUp">With 15+ years of expertise, Epics Infra crafts prefab kiosk solutions that shine. We mix clever layouts with solid builds to give you a space that’s ready fast—perfect for small businesses or quick service points.</p>
+                                    <p class="wow fadeInUp">Epics Infra’s been at this for over 15 years, and their Prefab Kiosks are pure gold. Need a slick retail spot or a sturdy ticket booth? They’ve got the knack for building small spaces that stand out, using materials that can take whatever Ahmedabad throws at ‘em.</p>
 
                                     <!-- Service Guidance Box Start -->
                                     <div class="service-guidance-box">
@@ -61,13 +61,8 @@ page_content:
                                                     <img src="/images/icon-service-6.svg" alt="">
                                                 </div>
                                                 <div class="service-guidance-title">
-                                                    <h3>Spot Check</h3>
+                                                    <h3>Site Assessment</h3>
                                                 </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-1.jpg" alt="Site Planning for Kiosks">
-                                                </figure>
                                             </div>
                                         </div>
                                         <!-- Service Guidance Item End -->
@@ -79,13 +74,8 @@ page_content:
                                                     <img src="/images/icon-service-3.svg" alt="">
                                                 </div>
                                                 <div class="service-guidance-title">
-                                                    <h3>Eco Build</h3>
+                                                    <h3>Green Building</h3>
                                                 </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-2.jpg" alt="Sustainable Kiosk Design">
-                                                </figure>
                                             </div>
                                         </div>
                                         <!-- Service Guidance Item End -->
@@ -97,13 +87,8 @@ page_content:
                                                     <img src="/images/icon-service-2.svg" alt="">
                                                 </div>
                                                 <div class="service-guidance-title">
-                                                    <h3>Your Look</h3>
+                                                    <h3>Custom Design</h3>
                                                 </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-3.jpg" alt="Custom Kiosk Layouts">
-                                                </figure>
                                             </div>
                                         </div>
                                         <!-- Service Guidance Item End -->
@@ -116,7 +101,7 @@ page_content:
                                 <div class="services-steps">
                                     <h2 class="text-anime-style-2">How We Pop Up Your Kiosk</h2>
 
-                                    <p class="wow fadeInUp">Our process is fast and fuss-free. We start with your needs, design a kiosk that fits your spot, and set it up quick—often in under 15 days—so you can start selling or serving right away.</p>
+                                    <p class="wow fadeInUp">Epics Infra keeps it dead simple. We chat about what you need, design a kiosk that fits your spot, and get it up in 15-30 days—bam, you’re in business with zero headaches.</p>
 
                                     <!-- Service Step Box Start -->
                                     <div class="service-steps-box">
@@ -128,8 +113,8 @@ page_content:
                                                     <img src="/images/icon-service-4.svg" alt="">
                                                 </div>
                                                 <div class="service-step-item-content">
-                                                    <h3>Step 1: Your Idea</h3>
-                                                    <p>We hear what you’re after.</p>
+                                                    <h3>Step 1: Consultation</h3>
+                                                    <p>We get the scoop on your kiosk idea.</p>
                                                 </div>
                                             </div>
                                             <!-- Service Step Item End -->
@@ -140,8 +125,8 @@ page_content:
                                                     <img src="/images/icon-service-5.svg" alt="">
                                                 </div>
                                                 <div class="service-step-item-content">
-                                                    <h3>Step 2: Design It</h3>
-                                                    <p>We sketch a perfect fit.</p>
+                                                    <h3>Step 2: Design</h3>
+                                                    <p>We sketch a plan that’s just right.</p>
                                                 </div>
                                             </div>
                                             <!-- Service Step Item End -->
@@ -152,8 +137,8 @@ page_content:
                                                     <img src="/images/icon-service-6.svg" alt="">
                                                 </div>
                                                 <div class="service-step-item-content">
-                                                    <h3>Step 3: Set Up</h3>
-                                                    <p>We make it happen fast.</p>
+                                                    <h3>Step 3: Installation</h3>
+                                                    <p>We set it up quick and clean.</p>
                                                 </div>
                                             </div>
                                             <!-- Service Step Item End -->
@@ -163,9 +148,9 @@ page_content:
                                         <!-- Service Entry List Start -->
                                         <div class="service-entry-list wow fadeInUp" data-wow-delay="0.6s">
                                             <ul>
-                                                <li>Site prep</li>
-                                                <li>Quick build</li>
-                                                <li>Final tweak</li>
+                                                <li>We scope your spot</li>
+                                                <li>Fast build, no mess</li>
+                                                <li>We lock it all in</li>
                                             </ul>
                                         </div>
                                         <!-- Service Entry List End -->
@@ -176,19 +161,19 @@ page_content:
 
                                 <!-- Service Feature Start -->
                                 <div class="service-feature">
-                                    <h2 class="text-anime-style-2">Kiosk Features That Wow</h2>
+                                    <h2 class="text-anime-style-2">What Makes These Kiosks Awesome</h2>
 
-                                    <p class="wow fadeInUp">Our prefab kiosks in Ahmedabad bring speedy setups, standout designs, and green perks that keep things simple and costs low.</p>
+                                    <p class="wow fadeInUp">Prefab Kiosks from Epics Infra? They’re fast to pop up, built like tanks, and lean green with materials that cut waste—perfect for Ahmedabad’s busy streets or quiet corners.</p>
 
                                     <!-- Service Entry List Start -->
                                     <div class="service-entry-list wow fadeInUp" data-wow-delay="0.2s">
                                         <ul>
-                                            <li>Weather-proof shells</li>
+                                            <li>Weathers anything with grit</li>
                                             <li>Your style, your way</li>
-                                            <li>Low maintenance</li>
-                                            <li>Easy to shift</li>
-                                            <li>Energy-smart</li>
-                                            <li>Great value</li>
+                                            <li>Low upkeep, high impact</li>
+                                            <li>Move it wherever</li>
+                                            <li>Saves on energy costs</li>
+                                            <li>Fits your budget tight</li>
                                         </ul>
                                     </div>
                                     <!-- Service Entry List End -->
@@ -208,12 +193,12 @@ page_content:
                                     <div class="accordion-item wow fadeInUp">
                                         <h2 class="accordion-header" id="heading1">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                                What’s a prefab kiosk for?
+                                                What’s a Prefab Kiosk for?
                                             </button>
                                         </h2>
                                         <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Think small shops, ticket stands, or info hubs—quick and handy.</p>
+                                                <p>Retail, tickets, info—Epics Infra makes ‘em quick and slick.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -223,12 +208,12 @@ page_content:
                                     <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                                         <h2 class="accordion-header" id="heading2">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                                How fast can it be up?
+                                                How fast can I get one?
                                             </button>
                                         </h2>
                                         <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Our portable kiosks can be ready in 10-15 days, size depending.</p>
+                                                <p>Epics Infra gets it up in 15-30 days—your call on specs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -243,7 +228,7 @@ page_content:
                                         </h2>
                                         <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Oh yeah! We customize it to fit your brand perfectly.</p>
+                                                <p>Yep—Epics Infra shapes it your way.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -258,7 +243,7 @@ page_content:
                                         </h2>
                                         <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>For sure—green materials keep it light on the planet.</p>
+                                                <p>For sure—built to keep waste low.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -268,18 +253,25 @@ page_content:
                                     <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
                                         <h2 class="accordion-header" id="heading5">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-                                                Who uses these kiosks?
+                                                Who’s using these kiosks?
                                             </button>
                                         </h2>
                                         <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>Vendors, startups, or anyone needing a small, fast space.</p>
+                                                <p>Vendors, startups—anyone needing a fast, compact fix.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- FAQ Item End -->
                                 </div>
                                 <!-- FAQ Accordion End -->
+
+                                <!-- Call to Action Start -->
+                                <div class="cta-section" style="margin-top: 20px; padding: 20px; text-align: center;">
+                                    <h3>Ready for Your Prefab Kiosk?</h3>
+                                    <p>Let’s get your stand rolling with Epics Infra. Call us at <a href="tel:{{brand:phone_number}}">{{brand:phone_number}}</a> or email <a href="mailto:{{brand:email}}">{{brand:email}}</a>. Time to shine!</p>
+                                </div>
+                                <!-- Call to Action End -->
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
@@ -288,5 +280,6 @@ alt_seo_meta_description: 'Get compact Prefab Kiosks in Ahmedabad by Epics Infra
 alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-kiosks'
 alt_seo_social_title: 'Prefab Kiosks Ahmedabad | Compact by Epics Infra'
 alt_seo_social_description: 'Compact Prefab Kiosks by Epics Infra. Perfect for retail. Fast setup.'
+thumbnail_image: prefab-container-kiosk-india.webp
 ---
 Need a small space that packs a punch? Epics Infra’s prefab kiosks are your go-to for quick, compact setups.
