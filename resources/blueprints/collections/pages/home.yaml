@@ -12,6 +12,8 @@ tabs:
               required: true
               validate:
                 - required
+      -
+        display: 'Hero Section'
   sidebar:
     display: Sidebar
     sections:

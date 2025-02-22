@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enquiry Details</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; -webkit-font-smoothing: antialiased;">
+    <!-- Wrapper table for better email client compatibility -->
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #f5f5f5; min-height: 100vh;">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <!-- Content table -->
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                    <tr>
+                        <td style="padding: 32px;">
+                            <!-- Header section -->
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                <tr>
+                                    <td>
+                                        <p style="margin: 0; font-size: 14px; color: #666666; font-weight: 500;">Enquiry Details</p>
+                                        <h1 style="margin: 8px 0 24px 0; font-size: 24px; color: #333333; font-weight: 600;">Epics Infra</h1>
+                                    </td>
+                                    <td align="right">
+                                       
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Data table -->
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top: 24px;">
+                                <tr style="background-color: #f9f9f9;">
+                                    <td style="padding: 16px; width: 120px;">
+                                        <strong style="font-size: 14px; color: #333333;">Name</strong>
+                                    </td>
+                                    <td style="padding: 16px;">
+                                        <span style="font-size: 14px; color: #666666;">{{name}}</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 16px; width: 120px;">
+                                        <strong style="font-size: 14px; color: #333333;">Phone</strong>
+                                    </td>
+                                    <td style="padding: 16px;">
+                                        <span style="font-size: 14px; color: #666666;">{{phone}}</span>
+                                    </td>
+                                </tr>
+                                <tr style="background-color: #f9f9f9;">
+                                    <td style="padding: 16px; width: 120px;">
+                                        <strong style="font-size: 14px; color: #333333;">Email</strong>
+                                    </td>
+                                    <td style="padding: 16px;">
+                                        <span style="font-size: 14px; color: #666666;">{{email}}</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 16px; width: 120px;">
+                                        <strong style="font-size: 14px; color: #333333;">City</strong>
+                                    </td>
+                                    <td style="padding: 16px;">
+                                        <span style="font-size: 14px; color: #666666;">{{city}}</span>
+                                    </td>
+                                </tr>
+                                <tr style="background-color: #f9f9f9;">
+                                    <td style="padding: 16px; width: 120px;">
+                                        <strong style="font-size: 14px; color: #333333;">Message</strong>
+                                    </td>
+                                    <td style="padding: 16px;">
+                                        <span style="font-size: 14px; color: #666666;">{{message}}</span>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Footer -->
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top: 24px; border-top: 1px solid #eeeeee;">
+                                <tr>
+                                    <td style="padding-top: 24px;">
+                                        <p style="margin: 0; font-size: 12px; color: #999999;">
+                                            Submitted on {{date}}
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,31 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: name
+            field:
+              type: text
+              display: Name
+          -
+            handle: phone
+            field:
+              type: text
+              display: Phone
+          -
+            handle: email
+            field:
+              type: text
+              display: Email
+          -
+            handle: city
+            field:
+              type: text
+              display: City
+          -
+            handle: message
+            field:
+              type: text
+              display: Message

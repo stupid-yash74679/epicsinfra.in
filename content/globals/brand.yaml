@@ -2,6 +2,7 @@ title: Brand
 data:
   dark_logo: asset-2.svg
   light_logo: logo-light.svg
+  favicon: favicon.svg
   phone_number_2: '+91 70218 55966'
   phone_number: '+91 98676 05235'
   email: asif@epicsinfra.in

@@ -1,0 +1,9 @@
+title: 'Contact Us'
+email:
+  -
+    id: m7gk7j6v
+    to: asif@epicsinfra.in
+    html: pages/email
+    mailer: smtp
+    subject: 'Enquiry from Website:  {{name}}'
+    cc: yash.nextstep@gmail.com

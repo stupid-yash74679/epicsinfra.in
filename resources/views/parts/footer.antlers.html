@@ -28,12 +28,12 @@
                 <div class="col-lg-2 col-md-4 col-6">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
-                        <h3>company</h3>
+                        <h3>Quick Links</h3>
                         <ul>
-                            <li><a href="index.html">home</a></li>
-                            <li><a href="about.html">about Us</a></li>
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="blog.html">blog</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="services.html">Blogs</a></li>
+                            <li><a href="blog.html">Careers</a></li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -42,12 +42,11 @@
                 <div class="col-lg-2 col-md-4 col-6">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
-                        <h3>support</h3>
+                        <h3>Products</h3>
                         <ul>
-                            <li><a href="#">help</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Term & Condition</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
+                            {{collection:products limit="4"}}
+								<li><a href="{{url}}">{{title}}</a></li>
+							{{/collection:products}}
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -56,12 +55,11 @@
                 <div class="col-lg-2  col-md-4">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
-                        <h3>service</h3>
+                        <h3>&nbsp;</h3>
                         <ul>
-                            <li><a href="service-single.html">Financial planning</a></li>
-                            <li><a href="service-single.html">Investment management</a></li>
-                            <li><a href="service-single.html">Retirement planning</a></li>
-                            <li><a href="service-single.html">Budgeting & forecasting</a></li>
+							{{collection:products limit="4" offset="4"}}
+								<li><a href="{{url}}">{{title}}</a></li>
+							{{/collection:products}}
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -72,7 +70,7 @@
                     <div class="footer-cta-box">
                         <!-- Footer Logo Start -->
                         <div class="footer-logo">
-                            <img src="images/footer-logo.svg" alt="">
+                            <img src="{{brand:light_logo}}" alt="">
                         </div>
                         <!-- Footer Logo End -->
                     
@@ -81,14 +79,14 @@
                             <!-- Footer Contact Item Start -->
                             <div class="footer-contact-item">
                                 <p>Need help!</p>
-                                <h3>+1 809 120 705</h3>
+                                <h3>{{brand:phone_number}}</h3>
                             </div>
                             <!-- Footer Contact Item End -->
 
                             <!-- Footer Contact Item Start -->
                             <div class="footer-contact-item">
                                 <p>E-mail now</p>
-                                <h3>info@domain.com</h3>
+                                <h3>{{brand:email}}</h3>
                             </div>
                             <!-- Footer Contact Item End -->
                         </div>
