@@ -15,35 +15,35 @@ tree:
       -
         id: ab2d3dab-d766-4773-bbcd-66ccb5dd6005
         title: 'Porta Cabins'
-        url: 'javascript:void(0);'
+        url: /products/porta-cabins
       -
         id: 7ff9f170-1e06-4ce0-b320-f869ad89c613
         title: 'Portable Prefab Office'
-        url: 'javascript:void(0);'
+        url: /products/portable-prefab-office
       -
         id: f609befb-9659-4e52-8020-07164a96ad99
         title: 'Prefab Farmhouses'
-        url: 'javascript:void(0);'
+        url: /products/prefab-farmhouses
       -
         id: 2d18e748-de5b-4b5c-9495-c6eb1b3298ce
         title: 'Prefab Toilets'
-        url: 'javascript:void(0);'
+        url: /products/prefab-toilets
       -
         id: d22dd1ba-4a0f-4695-8071-b81f3ac9816a
         title: 'Prefab Labour Colony'
-        url: 'javascript:void(0);'
+        url: /products/prefab-labour-colony
       -
         id: 10666047-8efb-4680-adbd-58ae4b320c8a
         title: 'Prefab Kiosks'
-        url: 'javascript:void(0);'
+        url: /products/prefab-kiosks
       -
         id: 3c021610-794d-4e50-9dc1-64880cf3233f
         title: 'Prefab Cafes'
-        url: 'javascript:void(0);'
+        url: /products/prefab-cafes
       -
         id: 8ee82551-1e3e-41f4-946c-72c27fce9b2a
         title: 'Prefab Restaurants'
-        url: 'javascript:void(0);'
+        url: /products/prefab-restaurants
   -
     id: 6080b5ec-f5ce-4047-941b-1f2d4e88236f
     title: Gallery
