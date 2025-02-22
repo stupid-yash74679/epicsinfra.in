@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740212458
+updated_at: 1740220067
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -283,4 +283,9 @@ page_content:
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
+alt_seo_meta_title: 'Prefab Farmhouses in Ahmedabad | Rural Comfort | Epics Infra'
+alt_seo_meta_description: 'Build your dream Prefab Farmhouse in Ahmedabad with Epics Infra. Comfortable, durable, and eco-friendly designs.'
+alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-farmhouses'
+alt_seo_social_title: 'Prefab Farmhouses | Rural Comfort by Epics Infra'
+alt_seo_social_description: 'Comfortable Prefab Farmhouses by Epics Infra. Durable & green.'
 ---

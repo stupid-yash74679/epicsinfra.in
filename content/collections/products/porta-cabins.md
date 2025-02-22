@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740211624
+updated_at: 1740219945
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -283,4 +283,9 @@ page_content:
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
+alt_seo_meta_title: 'Porta Cabins in Ahmedabad | Versatile & Portable | Epics Infra'
+alt_seo_meta_description: 'Discover versatile Porta Cabins in Ahmedabad by Epics Infra. Perfect for offices, storage, or accommodation. Fast setup, durable design.'
+alt_seo_canonical_url: 'https://www.epicsinfra.in/products/porta-cabins'
+alt_seo_social_title: 'Porta Cabins Ahmedabad | Versatile & Portable by Epics Infra'
+alt_seo_social_description: 'Versatile Porta Cabins in Ahmedabad. Perfect for any need. Fast & durable.'
 ---

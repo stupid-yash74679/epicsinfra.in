@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740212563
+updated_at: 1740220105
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -283,4 +283,9 @@ page_content:
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
+alt_seo_meta_title: 'Prefab Kiosks in Ahmedabad | Compact & Portable | Epics Infra'
+alt_seo_meta_description: 'Get compact Prefab Kiosks in Ahmedabad by Epics Infra. Perfect for retail, tickets, or info points. Fast setup.'
+alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-kiosks'
+alt_seo_social_title: 'Prefab Kiosks Ahmedabad | Compact by Epics Infra'
+alt_seo_social_description: 'Compact Prefab Kiosks by Epics Infra. Perfect for retail. Fast setup.'
 ---

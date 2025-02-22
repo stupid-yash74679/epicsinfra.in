@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740212675
+updated_at: 1740220148
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -283,4 +283,9 @@ page_content:
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
+alt_seo_meta_title: 'Prefab Labour Colonies in Ahmedabad | Epics Infra'
+alt_seo_meta_description: 'Provide durable Prefab Labour Colonies in Ahmedabad with Epics Infra. Fast setup, comfortable, and cost-effective.'
+alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-labour-colonies'
+alt_seo_social_title: 'Prefab Labour Colonies | Worker Housing by Epics Infra'
+alt_seo_social_description: 'Durable Prefab Labour Colonies by Epics Infra. Comfort & cost-effective.'
 ---

@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740213029
+updated_at: 1740220184
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -283,4 +283,9 @@ page_content:
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
+alt_seo_meta_title: 'Prefab Restaurants in Ahmedabad | Fast & Stylish | Epics Infra'
+alt_seo_meta_description: 'Open your Prefab Restaurant in Ahmedabad with Epics Infra. Fast setup, stylish designs, and eco-friendly options.'
+alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-restaurants'
+alt_seo_social_title: 'Prefab Restaurants | Fast & Stylish by Epics Infra'
+alt_seo_social_description: 'Fast-setup Prefab Restaurants by Epics Infra. Stylish & green.'
 ---

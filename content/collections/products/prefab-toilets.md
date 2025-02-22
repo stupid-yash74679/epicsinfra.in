@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740213730
+updated_at: 1740220217
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -283,4 +283,9 @@ page_content:
                             </div>
                             <!-- Our FAQs section End -->
   mode: htmlmixed
+alt_seo_meta_title: 'Prefab Toilets in Ahmedabad | Fast & Green | Epics Infra'
+alt_seo_meta_description: 'Need prefab toilets in Ahmedabad? Epics Infra offers fast, eco-friendly sanitation units for sites & events. Ready in 10-15 days!'
+alt_seo_canonical_url: 'https://www.epicsinfra.in/products/prefab-toilets'
+alt_seo_social_title: 'Prefab Toilets Ahmedabad | Fast & Green by Epics Infra'
+alt_seo_social_description: 'Fast, green prefab toilets by Epics Infra. Ready in 10-15 days!'
 ---
