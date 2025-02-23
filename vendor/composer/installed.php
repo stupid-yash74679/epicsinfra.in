@@ -3,7 +3,7 @@
         'name' => 'statamic/statamic',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '3e93329a0b3a2714f1d2f076663a8161c1d3676b',
+        'reference' => '2b07e030b599f39f80edb32612b36d0163c31a4d',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -1262,7 +1262,7 @@
         'statamic/statamic' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '3e93329a0b3a2714f1d2f076663a8161c1d3676b',
+            'reference' => '2b07e030b599f39f80edb32612b36d0163c31a4d',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

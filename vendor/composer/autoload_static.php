@@ -855,6 +855,7 @@ class ComposerStaticInitc2fdab2e8995acbbba30e261791a46f8
         'AltDesign\\AltSitemap\\Helpers\\Data' => __DIR__ . '/..' . '/alt-design/alt-sitemap/src/Helpers/Data.php',
         'AltDesign\\AltSitemap\\Http\\Controllers\\AltSitemapController' => __DIR__ . '/..' . '/alt-design/alt-sitemap/src/Http/Controllers/AltSitemapController.php',
         'AltDesign\\AltSitemap\\ServiceProvider' => __DIR__ . '/..' . '/alt-design/alt-sitemap/src/ServiceProvider.php',
+        'App\\Http\\Controllers\\BlogController' => __DIR__ . '/../..' . '/app/Http/Controllers/BlogController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',

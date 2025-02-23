@@ -47,6 +47,7 @@ return array(
     'AltDesign\\AltSitemap\\Helpers\\Data' => $vendorDir . '/alt-design/alt-sitemap/src/Helpers/Data.php',
     'AltDesign\\AltSitemap\\Http\\Controllers\\AltSitemapController' => $vendorDir . '/alt-design/alt-sitemap/src/Http/Controllers/AltSitemapController.php',
     'AltDesign\\AltSitemap\\ServiceProvider' => $vendorDir . '/alt-design/alt-sitemap/src/ServiceProvider.php',
+    'App\\Http\\Controllers\\BlogController' => $baseDir . '/app/Http/Controllers/BlogController.php',
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
