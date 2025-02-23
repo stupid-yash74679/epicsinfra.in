@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740267518
+updated_at: 1740268143
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -29,20 +29,6 @@ page_content:
                                         </ul>
                                     </div>
                                     <!-- Case Study List End -->
-
-                                    <!-- Case Study Image Video Start -->
-                                    <div class="service-image-video">
-                                        <!-- Video Image Start -->
-                                        <div class="video-image">
-                                            <a href="javascript:void(0);" class="image">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-video-bg.jpg" alt="Porta Cabins by Epics Infra">
-                                                </figure>
-                                            </a>
-                                        </div>
-                                        <!-- Video Image End -->
-                                    </div>
-                                    <!-- Case Study Image Video End -->
                                 </div>
                                 <!-- Case Study List Video End -->
 
