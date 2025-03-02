@@ -1,5 +1,38 @@
 # Release Notes
 
+## 5.49.1 (2025-02-27)
+
+### What's fixed
+- Query for entry origin within the same collection [#11514](https://github.com/statamic/cms/issues/11514) by @jasonvarga
+- Improve validation message when handle starts with a number [#11511](https://github.com/statamic/cms/issues/11511) by @duncanmcclean
+- Fix target `.git` repo handling when exporting starter kit with `--clear` [#11509](https://github.com/statamic/cms/issues/11509) by @jesseleite
+- Make active toolbar buttons of Bard more visible in dark mode [#11405](https://github.com/statamic/cms/issues/11405) by @carstenjaksch
+- Alternate Laravel 12 token repository fix [#11505](https://github.com/statamic/cms/issues/11505) by @jasonvarga
+
+
+
+## 5.49.0 (2025-02-25)
+
+### What's new
+- Laravel 12 support [#11433](https://github.com/statamic/cms/issues/11433) by @duncanmcclean
+
+### What's fixed
+- Asset Container returns relative url for same site [#11372](https://github.com/statamic/cms/issues/11372) by @marcorieser
+
+
+
+## 5.48.1 (2025-02-25)
+
+### What's fixed
+- Fix session expiry component [#11501](https://github.com/statamic/cms/issues/11501) by @jasonvarga
+- Include port in CSP for Live Preview [#11498](https://github.com/statamic/cms/issues/11498) by @dmxmo
+- Remove duplicate translation line from `translator` command [#11494](https://github.com/statamic/cms/issues/11494) by @duncanmcclean
+- Fix carbon integer casting [#11496](https://github.com/statamic/cms/issues/11496) by @jasonvarga
+- Only show spatie/fork prompt when pcntl extension is loaded [#11493](https://github.com/statamic/cms/issues/11493) by @duncanmcclean
+- French translations [#11488](https://github.com/statamic/cms/issues/11488) by @ebeauchamps
+
+
+
 ## 5.48.0 (2025-02-21)
 
 ### What's new
