@@ -1,16 +1,1 @@
-<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_322_12)">
-<path d="M28.3231 12.7186H2.99455C1.79455 12.7186 1.28026 11.4115 2.22312 10.79L14.8874 2.49719C15.1212 2.35964 15.3876 2.28711 15.6588 2.28711C15.9301 2.28711 16.1964 2.35964 16.4303 2.49719L29.0945 10.79C30.0374 11.4115 29.5231 12.7186 28.3231 12.7186Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M28.5162 24.5039H2.8019C2.21016 24.5039 1.73047 24.9836 1.73047 25.5753V28.7896C1.73047 29.3814 2.21016 29.861 2.8019 29.861H28.5162C29.1079 29.861 29.5876 29.3814 29.5876 28.7896V25.5753C29.5876 24.9836 29.1079 24.5039 28.5162 24.5039Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M4.94434 12.7188V24.5045" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10.3018 12.7188V24.5045" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.6592 12.7188V24.5045" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21.0166 12.7188V24.5045" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M26.373 12.7188V24.5045" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<defs>
-<clipPath id="clip0_322_12">
-<rect width="30" height="30" fill="white" transform="translate(0.65918 0.932617)"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 16 16" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M15.5.625h-14A.375.375 0 0 0 1.125 1v6.625H.5A.375.375 0 0 0 .125 8v7c0 .207.168.375.375.375h8A.375.375 0 0 0 8.875 15V8.375h5.25V15a.375.375 0 0 0 .75 0V8.375h.625A.375.375 0 0 0 15.875 8V1A.375.375 0 0 0 15.5.625zm-13.625.75h13.25v6.25H1.875zm1.5 9h2.25v4.25h-2.25zm4.75 4.25h-1.75V10A.375.375 0 0 0 6 9.625H3a.375.375 0 0 0-.375.375v4.625H.875v-6.25h7.25z" fill="#ffffff" opacity="1" data-original="#000000" class=""></path><path d="M7 2.625H4A.375.375 0 0 0 3.625 3v3c0 .207.168.375.375.375h3A.375.375 0 0 0 7.375 6V3A.375.375 0 0 0 7 2.625zm-.375.75v2.25h-2.25v-2.25zM10 6.375h3A.375.375 0 0 0 13.375 6V3A.375.375 0 0 0 13 2.625h-3A.375.375 0 0 0 9.625 3v3c0 .207.168.375.375.375zm.375-.75v-2.25h2.25v2.25z" fill="#ffffff" opacity="1" data-original="#000000" class=""></path></g></svg>

@@ -12,6 +12,15 @@ tabs:
               required: true
               validate:
                 - required
+      -
+        display: Common
+        fields:
+          -
+            handle: images
+            field:
+              container: assets
+              type: assets
+              display: Images
   sidebar:
     display: Sidebar
     sections:

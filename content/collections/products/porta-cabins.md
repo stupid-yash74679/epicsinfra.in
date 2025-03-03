@@ -9,7 +9,7 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: 51da970e-9798-4dbb-b63e-27523f87ab8d
-updated_at: 1740269898
+updated_at: 1741035240
 page_content:
   code: |-
     <!-- Case Study Entry Start -->
@@ -38,62 +38,6 @@ page_content:
                                     <h2 class="text-anime-style-2">Why Porta Cabins Are a Cut Above</h2>
 
                                     <p class="wow fadeInUp">Here’s the deal: Epics Infra’s been at this for over 15 years, and their Porta Cabins are proof of that expertise. Whether it’s a snug office for your startup or a tough shelter on a dusty site, they’ve got the know-how to make it work. It’s all about smart design and materials that don’t quit.</p>
-
-                                    <!-- Service Guidance Box Start -->
-                                    <div class="service-guidance-box">
-                                        <!-- Service Guidance Item Start -->
-                                        <div class="service-guidance-item wow fadeInUp" data-wow-delay="0.2s">
-                                            <div class="service-guidance-content">
-                                                <div class="icon-box">
-                                                    <img src="/images/icon-service-6.svg" alt="">
-                                                </div>
-                                                <div class="service-guidance-title">
-                                                    <h3>Site Assessment</h3>
-                                                </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-1.jpg" alt="">
-                                                </figure>
-                                            </div>
-                                        </div>
-                                        <!-- Service Guidance Item End -->
-
-                                        <!-- Service Guidance Item Start -->
-                                        <div class="service-guidance-item wow fadeInUp" data-wow-delay="0.4s">
-                                            <div class="service-guidance-content">
-                                                <div class="icon-box">
-                                                    <img src="/images/icon-service-3.svg" alt="">
-                                                </div>
-                                                <div class="service-guidance-title">
-                                                    <h3>Green Building</h3>
-                                                </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-2.jpg" alt="">
-                                                </figure>
-                                            </div>
-                                        </div>
-                                        <!-- Service Guidance Item End -->
-
-                                        <!-- Service Guidance Item Start -->
-                                        <div class="service-guidance-item wow fadeInUp" data-wow-delay="0.6s">
-                                            <div class="service-guidance-content">
-                                                <div class="icon-box">
-                                                    <img src="/images/icon-service-2.svg" alt="">
-                                                </div>
-                                                <div class="service-guidance-title">
-                                                    <h3>Custom Design</h3>
-                                                </div>
-                                            </div>
-                                            <div class="service-guidance-img">
-                                                <figure class="image-anime">
-                                                    <img src="/images/service-guidance-img-3.jpg" alt="">
-                                                </figure>
-                                            </div>
-                                        </div>
-                                        <!-- Service Guidance Item End -->
                                     </div>
                                     <!-- Service Guidance Box End -->
                                 </div>

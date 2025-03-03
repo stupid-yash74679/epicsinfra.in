@@ -12,3 +12,6 @@ preferences:
         - email
         - city
         - message
+  assets:
+    assets:
+      per_page: 500
